@@ -1,0 +1,19 @@
+body {
+    background:light blueviolet;
+    font-family: Arial;
+
+}
+.profile-procard{
+    background-color: blue;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+button{
+    padding: 10px;
+}
